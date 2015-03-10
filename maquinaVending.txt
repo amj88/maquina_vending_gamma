@@ -1,8 +1,41 @@
-Una maquina de Vending es una máquina que dispensa comidas, bebidas, alcohol, cigarros,(…) después de que el consumidor inserte una tarjeta de crédito o dinero en la máquina.
-La primera máquina moderna que funcionaba con monedas fue introducida en Londres a principios de los 1880, dispensando cartas postales. La másuina fue inventada por Percival Everett en 1883 y pronto se empezó a usar en oficinas de correos , dispensando sellos, sobres y papel. 
-La Sweetmeat Automatic Delivery Company fue fundada en 1887 en Inglaterra como primera compañía que instalaba y mantenía máquinas de vending. La primera máquina de vending en los Estados Unidos fue construida en 1888 por Thomas Adams Gum Company, vendiendo chicles en la estación de tren de Nueva York. La idea de añadir juegos a estas máquinas como una incentiva mayor para comprar fue añadida en 1897 por Culver Manufacturing Company, que añadió pequeñas figuras, que se empezarían a mover cuando alguien comprase algún chicle de sus maquinas . Está idea comenzó un nuevo mundo de dispositivos , conocidos como “trade stimulators”(Estimuladores de la compra)
+Una maquina de Vending es una m‡quina que dispensa comidas, bebidas, alcohol, cigarros,(É) despuŽs de que el consumidor inserte una tarjeta de crŽdito o dinero en la m‡quina.
+La primera m‡quina moderna que funcionaba con monedas fue introducida en Londres a principios de los 1880, dispensando cartas postales. La m‡quina fue inventada por Percival Everett en 1883 y pronto se empez— a usar en oficinas de correos , dispensando sellos, sobres y papel. 
+La Sweetmeat Automatic Delivery Company fue fundada en 1887 en Inglaterra como primera compa–’a que instalaba y manten’a m‡quinas de vending. La primera m‡quina de vending en los Estados Unidos fue construida en 1888 por Thomas Adams Gum Company, vendiendo chicles en la estaci—n de tren de Nueva York. La idea de a–adir juegos a estas m‡quinas como una incentiva mayor para comprar fue a–adida en 1897 por Culver Manufacturing Company, que a–adi— peque–as figuras, que se empezar’an a mover cuando alguien comprase algœn chicle de sus maquinas . Est‡ idea comenz— un nuevo mundo de dispositivos , conocidos como Òtrade stimulatorsÓ(estimuladores de la compra)
 
-Después de pagar, un producto puede conseguirse mediante:- La máquina lo tira, y cae en un compartimento en el suelo.
+DespuŽs de pagar, un producto puede conseguirse mediante:- La m‡quina lo tira, y cae en un compartimento en el suelo.
 La apertura de una puerta.
-Algunos productos necesitan ser preparados para poderse comprar. Por ejemplo, los tickets son magnetizados o impresos en el sitio; así como se prepara el café.
-Una de las formas más comunes de “vending machine”, la máquina de snacks, normalmente usa un muelle de acero que, cuando se compra algo, tira el producto. El ejemplo principal de una máquina de vending dando acceso a todo lo que se puede comprar es una máquina de vender periódicos (tambien llamada vending box) , que se encuentra principalmente en Estados Unidos y Canadá.Contiene una pila de periódicos idénticos. Después de la venta, la puerta vuelve automáticamente a una posición de cerrado.
+Algunos productos necesitan ser preparados para poderse comprar. Por ejemplo, los tickets son magnetizados o impresos en el sitio; as’ como se prepara el cafŽ.
+Una de las formas m‡s comunes de Òvending machineÓ, la m‡quina de snacks, normalmente usa un muelle de acero que, cuando se compra algo, tira el producto. El ejemplo principal de una m‡quina de vending dando acceso a todo lo que se puede comprar es una m‡quina de vender peri—dicos (tambiŽn llamada vending box) , que se encuentra principalmente en Estados Unidos y Canad‡.Contiene una pila de peri—dicos idŽnticos. DespuŽs de la venta, la puerta vuelve autom‡ticamente a una posici—n de cerrado.
+Nuestra m‡quina de vending se centrar‡ en la venta de material de oficina.
+La idea es facilitar el acceso a este material a estudiantes y trabajadores sin tener que desplazarse hasta una papeler’a.
+
+La m‡quina constar‡ de :
+-Un panel que funcionar‡ por selecci—n numŽrica.
+-Aceptar‡ monedas y billetes de entre 5 y 20 euros.
+-Contar‡ con la parte de abajo acolchada, para evitar los da–os en el producto.
+
+Productos que se dispensar‡n:
+-L‡pices.
+-Bol’grafos.
+-Clips.
+-Rotuladores.
+-Post-it.
+-Subrayadores.
+-Gomas de borrar.
+-Recambios ( minas, tinta).
+-Pen-drives(4,8 y 16 gb)
+-Reglas.
+-Compases.
+-DvdÕs.
+-Calculadoras.
+-Ratones de pc peque–os, con cable retr‡ctil.
+
+Funcionamiento de la m‡quina:
+-Para comenzar, los elementos m‡s susceptibles a da–os ser‡n situados en la parte inferior de la m‡quina, para que no se produzcan posibles roturas.
+-La dispensaci—n de los ’tems ser‡ mediante muelle de acero.
+-Se har‡ un informe de los elementos que se quedan m‡s r‡pido sin stock, para reponerlos m‡s r‡pido y venderlos en mayor frecuencia.
+
+Medidas de la m‡quina:
+- 1Õ90 x 1Õ20 x 0,90.
+
+
