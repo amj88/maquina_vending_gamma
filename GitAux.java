@@ -2,9 +2,9 @@
 
 /*
  *
- * @author alumno: <escribe tu nombre aqui>
+ * @author alumno: Maximilianvsg
  * @author alumno: AdrianNunezM
- * @author alumno: <escribe tu nombre aqui>
+ * @author alumno: amj88
  * 
  */
 public class GitAux {
@@ -32,7 +32,7 @@ public class GitAux {
 
 	// modificaciones alumno 3
         System.out.println("Alumno 3 inserta esra sentencia");
-=======
+
 	// modificaciones alumno 1
 	System.out.println("Alumno 1 inserta esta sentencia");
     }
