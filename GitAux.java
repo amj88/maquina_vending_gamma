@@ -27,4 +27,8 @@ public class GitAux {
 	System.out.println(“hola,soy el alumno 2”); // insertado por alumno 2
         System.out.println(“Aqui escribimos todos");
 	    }
+        System.out.println("Aqui escribimos todos");
+	// modificaciones alumno 1
+	System.out.println("Alumno 1 inserta esta sentencia");
+    }
 }
