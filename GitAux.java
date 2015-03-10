@@ -1,6 +1,6 @@
 package pkgGitHub;
 
-/**
+/*
  *
  * @author alumno: <escribe tu nombre aqui>
  * @author alumno: AdrianNunezM
@@ -25,8 +25,6 @@ public class GitAux {
     
     public void metodoComunitario(){
 	System.out.println(“hola,soy el alumno 2”); // insertado por alumno 2
-        System.out.println("Aqui escribimos todos");
-	// modificaciones alumno 1
-	System.out.println("Alumno 1 inserta esta sentencia");
-    }
+        System.out.println(“Aqui escribimos todos");
+	    }
 }
